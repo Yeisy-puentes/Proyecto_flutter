@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "382357679146",
+    "project_id": "interfajas-app",
+    "storage_bucket": "interfajas-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382357679146:android:8d1768e24d042f40786753",
+        "android_client_info": {
+          "package_name": "co.interfajas.interfajas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382357679146-18sb1pjasp62fm2f1hn9flpljtpuloec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSWLt6GWKKOxcgNg_Ljgiuu-JUidhzrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382357679146-18sb1pjasp62fm2f1hn9flpljtpuloec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382357679146-qh4002cqdhmsrn4u5babgqg08h2gal84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.interfajas.interfajasApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
